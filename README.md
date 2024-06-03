@@ -1,2 +1,3 @@
 # Image-Steganography
-Simple Python Script to make Steganography in Images
+
+Simple Python Script to make Steganography in Images.
